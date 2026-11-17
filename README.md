@@ -1,0 +1,1 @@
+# -jstqb-study-app
